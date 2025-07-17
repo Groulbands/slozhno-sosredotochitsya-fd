@@ -5,7 +5,7 @@
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
-  padding: 10px 10px 0 10px;
+  /*padding: 10px 10px 0 10px;*/
 }
 
 .header {
@@ -190,9 +190,9 @@
 }
 
 @media (width >= 768px) {
-  .page {
+  /*.page {
     padding: 20px 20px 0 0;
-  }
+  }*/
 
   .header {
     min-block-size: 768px;
