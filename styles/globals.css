@@ -47,3 +47,7 @@ a {
   line-height: inherit;
   text-decoration: none;
 }
+
+button {
+  border: solid 1px transparent;
+}
