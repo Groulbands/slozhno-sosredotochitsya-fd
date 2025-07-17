@@ -229,7 +229,7 @@
     grid-column: 1;
   }
 
-  .card-concentration .card__item, .card-high-concentration .card__advice{
+  .card-concentration .card__item, .card-high-concentration .card__advice {
     grid-column: 2/-1;
   }
 
@@ -282,7 +282,7 @@
     bottom: 1em;
   }
 
-  .footer::after{
+  .footer::after {
     top: 1em;
   }
 }
