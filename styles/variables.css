@@ -1,8 +1,9 @@
 :root {
   --bg-image: url(../images/cover-image-dark.png);
-    --accent-color: #FF0070;
-    --major-title-color: #DB00FF;
-    --title-color: #FF0070;
-    --text-color: #F1B2CE;
-    --hover-color: #FF007066;
+  --accent-color: #ff0070;
+  --major-title-color: #db00ff;
+  --title-color: #ff0070;
+  --text-color: #f1b2ce;
+  --hover-color: #ff007066;
+  --padding-standart: clamp(0.625rem, 2.545vw + 0.029rem, 1.25rem);
 }
