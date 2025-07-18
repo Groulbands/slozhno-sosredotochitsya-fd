@@ -14,6 +14,14 @@
   --hover-color: #ff007066;
   color: var(--accent-color);
   background-color: var(--bg-color);
+
+  .accent-title {
+    color: var(--bg-color);
+  }
+
+  .decoration-lamp {
+    display: inline-block;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,5 +35,13 @@
     --hover-color: #ff007066;
     color: var(--accent-color);
     background-color: var(--bg-color);
+
+    .accent-title {
+      color: var(--bg-color);
+    }
+
+    .decoration-lamp {
+      display: inline-block;
+    }
   }
 }
